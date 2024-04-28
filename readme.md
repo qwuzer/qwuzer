@@ -1,6 +1,6 @@
 <h2> Hey, you found me! </h2>
 
-<p><em>Undergrad majoring in CS at <a href="https://www.ntnu.edu.tw/">NTNU</a><img src="" width="30"> <img src="https://media.tenor.com/DZKcXvpu-d8AAAAi/bongo-cat-cute-png.gif" width="30">
+<p><em>Undergrad majoring in CS at <a href="https://www.ntnu.edu.tw/">NTNU <img src="https://media.tenor.com/DZKcXvpu-d8AAAAi/bongo-cat-cute-png.gif" width="30">
 </em></p>
 
 <div style="display: flex; align-items: center;">
@@ -12,6 +12,6 @@
     </a>
 </div>
 
-<img src="" width="60"> <em></em>
+ <em></em>
 
 ---

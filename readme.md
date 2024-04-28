@@ -10,6 +10,11 @@
     <a href="mailto:thsg314@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 24px;">
     </a>
+    <a href="https://www.cakeresume.com/yj-d379bd">
+        <img src="https://img.shields.io/badge/Check%20out%20my%20-resume-1abc9c.svg" alt="resume" style="height: 24px;">
+    </a>
+
+
 </div>
 
  <em></em>

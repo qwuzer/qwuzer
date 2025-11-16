@@ -4,9 +4,9 @@
 </em></p>
 
 <div style="display: flex; align-items: center;">
-    <a href="https://github.com/qwuzer">
+    <!-- <a href="https://github.com/qwuzer">
         <img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" style="height: 24px;">
-    </a>
+    </a> -->
     <a href="mailto:thsg314@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 24px;">
     </a>

@@ -7,8 +7,8 @@ Graduate Researcher · Machine Learning · Computer Vision
 
 ## Research Interests
 My research focuses on developing efficient computer vision and machine learning systems that can operate reliably across real-world environments. I am currently researching on topics:
-	•	Environmental hazard detection, for oil spill recognition, segmentation, and early-warning prediction from aerial and ship-based imagery.
-	•	Deep learning for image understanding, including convolutional networks, transformers, and segmentation models such as RF-DETR, DeepLabV3.
-	•	Multimodal perception, combining visual, spatial, and temporal cues to improve robustness in complex scenes.
-	•	Model efficiency and deployment, including optimization for low-resource devices and real-time inference.
-	•	Data-centric methods, covering dataset design, annotation strategies, augmentation, and domain adaptation for challenging environmental imagery.
+- Environmental hazard detection, for oil spill recognition, segmentation, and early-warning prediction from aerial and ship-based imagery.
+- Deep learning for image understanding, including convolutional networks, transformers, and segmentation models such as RF-DETR, DeepLabV3.
+- Multimodal perception, combining visual, spatial, and temporal cues to improve robustness in complex scenes.
+- Model efficiency and deployment, including optimization for low-resource devices and real-time inference.
+- Data-centric methods, covering dataset design, annotation strategies, augmentation, and domain adaptation for challenging environmental imagery.

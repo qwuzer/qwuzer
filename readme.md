@@ -1,5 +1,5 @@
 # William Chang  
-Graduate Researcher · Machine Learning · Computer Vision 
+> Machine Learning · Computer Vision 
 
 [![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:thsg314@gmail.com) [![CV](https://img.shields.io/badge/CV-PDF-red)](./Resume.pdf)
 

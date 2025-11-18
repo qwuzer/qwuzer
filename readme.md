@@ -1,22 +1,14 @@
-<h2> Hey, you found me! </h2>
+# William Chang  
+Graduate Researcher · Machine Learning · Computer Vision 
 
-<p><em>Graduate <del>Undergrad</del> majoring in CS at <a href="https://www.ntnu.edu.tw/">NTNU </a><img src="https://media.tenor.com/DZKcXvpu-d8AAAAi/bongo-cat-cute-png.gif" width="30">
-</em></p>
-
-<div style="display: flex; align-items: center;">
-    <!-- <a href="https://github.com/qwuzer">
-        <img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" style="height: 24px;">
-    </a> -->
-    <a href="mailto:thsg314@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 24px;">
-    </a>
-<!--     <a href="https://www.cakeresume.com/yj-d379bd">
-        <img src="https://img.shields.io/badge/Check%20out%20my%20-resume-1abc9c.svg" alt="resume" style="height: 24px;">
-    </a>
- -->
-
-</div>
-
- <em></em>
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:thsg314@gmail.com) [![CV](https://img.shields.io/badge/CV-PDF-red)](./Resume.pdf)
 
 ---
+
+## Research Interests
+My research focuses on developing efficient computer vision and machine learning systems that can operate reliably across real-world environments. I am currently researching on topics:
+	•	Environmental hazard detection, for oil spill recognition, segmentation, and early-warning prediction from aerial and ship-based imagery.
+	•	Deep learning for image understanding, including convolutional networks, transformers, and segmentation models such as RF-DETR, DeepLabV3.
+	•	Multimodal perception, combining visual, spatial, and temporal cues to improve robustness in complex scenes.
+	•	Model efficiency and deployment, including optimization for low-resource devices and real-time inference.
+	•	Data-centric methods, covering dataset design, annotation strategies, augmentation, and domain adaptation for challenging environmental imagery.
